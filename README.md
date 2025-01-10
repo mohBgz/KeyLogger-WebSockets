@@ -29,7 +29,7 @@ This project is intended for educational purposes only. It is designed to help u
 
 3. Open and run `client.py`. You'll connect to the listener.
 
-4. `keystrokes.log` will be generated, containing all keystrokes from the client.
+4. `keystrokes.txt` will be generated, containing all keystrokes from the client.
 
 ## Contributing
 
