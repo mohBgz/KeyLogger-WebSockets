@@ -1,10 +1,10 @@
 # KeyLogger-WebSockets
 
-## Building a keystroke logger using web sockets
-
 ### Description
 
-This project is made to simulate a keylog spyware, made for educational purposes only! The `client.py` is the spyware meant to be executed on the victim's machine, which will send all keystrokes to the attacker's server.
+#### ___Building a keystroke logger using web sockets___
+
+This project is designed to simulate keylogging spyware for educational purposes only. The ***[client.py](./client.py)*** is the spyware intended to run on the victim's machine, which captures and sends all keystrokes to the attacker's server using WebSockets for communication.
 
 ## Table of Contents
 - [Description](#description)
@@ -25,11 +25,11 @@ This project is intended for educational purposes only. It is designed to help u
     git clone https://github.com/mohBgz/KeyLogger-WebSockets.git
     ```
 
-2. Open and run `server.py`. A keylog listener is set up on `localhost:9595` by default. You can change this by modifying `config.json`.
+2. Open and run ***[server.py](./server.py)***. A keylog listener is set up on `localhost:9595` by default. You can change this by modifying `config.json`.
 
-3. Open and run `client.py`. You'll connect to the listener.
+3. Open and run ***[client.py](./client.py)***. You'll connect to the listener.
 
-4. `keystrokes.txt` will be generated, containing all keystrokes from the client.
+4. ***[keystrokes.txt](keystrokes.txt)*** will be generated, containing all keystrokes comming from the client.
 
 ## Contributing
 
@@ -45,7 +45,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details.
 
 ## Contact
 
