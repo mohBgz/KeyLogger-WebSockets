@@ -1,16 +1,21 @@
 import socket
 import pynput
 import threading
-import sys
+import json
 
 # Global variables for sockets
 client_socket = None  # Placeholder for the client socket
 server_socket = None  # Placeholder for the server socket
 listener = None  # To handle keyboard listener
 
-# Server configuration
-HOST = '0.0.0.0'  # Listen on all network interfaces
-PORT = 9595       # Port number for incoming connections
+# Read configuration from file
+# Read configuration from file
+with open('./config.json', 'r') as config_file:
+    config=json.load(config_file)
+
+
+HOST = config["SERVER"]["IP"] # Listen on localhost by default
+PORT = config["SERVER"]["PORT"] # Port number for incoming connections/ 9595 by default
 
 # Function to stop the server and client upon pressing the 'Escape' key
 def key_listener(key):
@@ -100,7 +105,7 @@ if __name__ == "__main__":
 
     except KeyboardInterrupt:
         # Handle Ctrl+C gracefully
-        print("\n[Server stopped by user (Ctrl+C)]")
+        print("[Server stopped by user (Ctrl+C)]")
         close_sockets()
 
     except Exception as e:

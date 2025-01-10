@@ -1,0 +1,7 @@
+
+{
+    "SERVER":{
+        "IP":"localhost",
+        "PORT": 9595     
+    }
+}

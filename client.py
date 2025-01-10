@@ -2,10 +2,15 @@ import pynput
 import socket
 import threading
 import datetime
+import json
 
-# Configure the server address and port
-SERVER_IP = 'localhost'
-SERVER_PORT = 9595
+
+# Read configuration from file
+with open('./config.json', 'r') as config_file:
+    config=json.load(config_file)
+
+SERVER_IP = config['SERVER']['IP']
+SERVER_PORT = config['SERVER']['PORT']
 
 # Persistent connection to the server
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
