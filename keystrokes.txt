@@ -995,3 +995,73 @@ Key pressed: ²
 [Friday 2025-01-10 00:47:05] Special key pressed: Key.end
 [Friday 2025-01-10 00:47:22] Special key pressed: Key.ctrl_l
 [Friday 2025-01-10 00:47:28] Special key pressed: Key.esc
+
+
+[Friday 2025-01-17 04:57:32] Key pressed: h
+[Friday 2025-01-17 04:57:33] Key pressed: h
+[Friday 2025-01-17 04:57:33] Key pressed: j
+[Friday 2025-01-17 04:57:34] Key pressed: k
+[Friday 2025-01-17 04:57:34] Key pressed: h
+[Friday 2025-01-17 04:57:34] Key pressed: k
+[Friday 2025-01-17 04:57:34] Key pressed: j
+[Friday 2025-01-17 04:57:35] Key pressed: h
+[Friday 2025-01-17 05:12:17] Key pressed: h
+[Friday 2025-01-17 05:12:17] Key pressed: h
+[Friday 2025-01-17 05:12:18] Key pressed: h
+[Friday 2025-01-17 05:12:18] Key pressed: h
+[Friday 2025-01-17 05:12:19] Special key pressed: Key.ctrl
+[Friday 2025-01-17 05:12:19] Key pressed: c
+[Friday 2025-01-17 12:06:59] Key pressed: n
+[Friday 2025-01-17 12:06:59] Key pressed: o
+[Friday 2025-01-17 12:07:22] Key pressed: h
+[Friday 2025-01-17 12:07:22] Key pressed: h
+[Friday 2025-01-17 12:07:24] Special key pressed: Key.backspace
+[Friday 2025-01-17 12:07:24] Special key pressed: Key.backspace
+[Friday 2025-01-17 12:07:38] Key pressed: m
+[Friday 2025-01-17 12:07:39] Special key pressed: Key.backspace
+[Friday 2025-01-17 12:07:40] Key pressed: m
+[Friday 2025-01-17 12:07:40] Key pressed: y
+[Friday 2025-01-17 12:07:41] Special key pressed: Key.space
+[Friday 2025-01-17 12:07:41] Key pressed: u
+[Friday 2025-01-17 12:07:41] Key pressed: s
+[Friday 2025-01-17 12:07:41] Key pressed: e
+[Friday 2025-01-17 12:07:42] Key pressed: r
+[Friday 2025-01-17 12:07:42] Special key pressed: Key.space
+[Friday 2025-01-17 12:07:43] Key pressed: n
+[Friday 2025-01-17 12:07:44] Key pressed: a
+[Friday 2025-01-17 12:07:44] Key pressed: m
+[Friday 2025-01-17 12:07:45] Key pressed: e
+[Friday 2025-01-17 12:07:45] Special key pressed: Key.enter
+[Friday 2025-01-17 12:07:47] Key pressed: s
+[Friday 2025-01-17 12:07:47] Key pressed: u
+[Friday 2025-01-17 12:07:47] Key pressed: p
+[Friday 2025-01-17 12:07:48] Key pressed: e
+[Friday 2025-01-17 12:07:48] Key pressed: r
+[Friday 2025-01-17 12:07:49] Special key pressed: Key.shift
+[Friday 2025-01-17 12:07:49] Key pressed: S
+[Friday 2025-01-17 12:07:49] Key pressed: e
+[Friday 2025-01-17 12:07:49] Key pressed: c
+[Friday 2025-01-17 12:07:50] Key pressed: r
+[Friday 2025-01-17 12:07:50] Key pressed: e
+[Friday 2025-01-17 12:07:50] Key pressed: t
+[Friday 2025-01-17 12:07:51] Special key pressed: Key.space
+[Friday 2025-01-17 12:07:51] Key pressed: p
+[Friday 2025-01-17 12:07:52] Key pressed: a
+[Friday 2025-01-17 12:07:52] Key pressed: s
+[Friday 2025-01-17 12:07:52] Key pressed: s
+[Friday 2025-01-17 12:07:53] Key pressed: w
+[Friday 2025-01-17 12:07:53] Key pressed: o
+[Friday 2025-01-17 12:07:53] Key pressed: r
+[Friday 2025-01-17 12:07:53] Key pressed: d
+[Friday 2025-01-17 12:08:18] Special key pressed: Key.num_lock
+[Friday 2025-01-17 12:08:31] Special key pressed: Key.num_lock
+[Friday 2025-01-17 12:08:32] Special key pressed: Key.ctrl_l
+[Friday 2025-01-17 12:08:33] Special key pressed: Key.esc
+[Friday 2025-01-17 16:29:58] Key pressed: v
+[Friday 2025-01-17 16:29:58] Key pressed: n
+[Friday 2025-01-17 16:29:58] Key pressed: n
+[Friday 2025-01-17 16:29:58] Key pressed: b
+[Friday 2025-01-17 16:29:58] Key pressed: v
+[Friday 2025-01-17 16:29:58] Key pressed: b
+[Friday 2025-01-17 16:29:58] Key pressed: n
+[Friday 2025-01-17 16:30:01] Special key pressed: Key.esc
