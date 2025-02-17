@@ -31,7 +31,8 @@ This project is intended for educational purposes only. It is designed to help u
     ```
 
 3. Download the `pynput` library (if you already have it, you can skip to step 4):
-    3.1 Create a virtual environment:
+
+   3.1 Create a virtual environment:
     ```sh
     python -m venv venv
     ```
@@ -51,12 +52,12 @@ This project is intended for educational purposes only. It is designed to help u
     pip install pynput
     ```
 
-4. Open and run ***[server.py](./server.py)***. A keylog listener is set up on `localhost:9595` by default. You can change this by modifying `config.json`.
+5. Open and run ***[server.py](./server.py)***. A keylog listener is set up on `localhost:9595` by default. You can change this by modifying `config.json`.
 
     python server.py
     python3 server.py
 
-5. Open and run ***[client.py](./client.py)***. You'll connect to the listener:
+6. Open and run ***[client.py](./client.py)***. You'll connect to the listener:
 
     ```sh
     python client.py
@@ -69,7 +70,7 @@ This project is intended for educational purposes only. It is designed to help u
    - **Client on an external network:** Change the `SERVER` key to your public IP address.
 
 
-6. ***[keystrokes.txt](keystrokes.txt)*** will be generated, containing all keystrokes coming from the client.
+7. ***[keystrokes.txt](keystrokes.txt)*** will be generated, containing all keystrokes coming from the client.
 
 ## Contributing
 
